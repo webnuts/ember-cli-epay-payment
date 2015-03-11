@@ -1,4 +1,4 @@
-# ember-cli-x-marquee
+# ember-cli-epay-payment
 
 Plugin for ember-cli that makes epay-payment component available.
 
